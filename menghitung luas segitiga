@@ -1,0 +1,12 @@
+#include<iostream.h>
+main ()
+{
+int a,t,L;
+cout<<"input Nilai a =";
+cin>> a;
+cout<<"input Nilai t =";
+cin>>t;
+L= a*t;
+
+cout<<L;
+}
